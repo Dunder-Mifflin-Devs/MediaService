@@ -1,0 +1,25 @@
+{
+  "name": "mediaservice",
+  "version": "1.0.0",
+  "description": "Worth-a-Watch's Media Service to retrieve information about TV shows",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test -- --coverage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunder-Mifflin-Devs/MediaService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dunder-Mifflin-Devs/MediaService/issues"
+  },
+  "homepage": "https://github.com/Dunder-Mifflin-Devs/MediaService#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
